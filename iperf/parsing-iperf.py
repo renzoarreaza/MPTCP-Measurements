@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# filename as argument
 
 import re
 import sys
